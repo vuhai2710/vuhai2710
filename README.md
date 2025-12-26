@@ -1,5 +1,6 @@
 ### 👋 Welcome to my GitHub
 My name is **Vu Ngoc Hai**.
+
 📌 *I am actively seeking an **Intern Backend Java** position to gain hands-on experience and contribute to real-world projects.*
 
 ---
@@ -43,12 +44,9 @@ My name is **Vu Ngoc Hai**.
 
 ## 🚀 Featured Projects
 
-<a href="https://github.com/vuhai2710/electronics-store">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=vuhai2710&repo=electronics-store&theme=tokyonight" />
-</a>
-<a href="https://github.com/vuhai2710">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=vuhai2710&repo=YOUR_SECOND_REPO&theme=gruvbox" />
-</a>
+| Project | Description | Tech |
+|--------|------------|------|
+| **[Electronics Store](https://github.com/vuhai2710/electronics-store)** | REST API cho hệ thống e-commerce: gợi ý sản phẩm, đơn hàng, thanh toán, chat realtime | Java, Spring Boot, JWT, WebSocket, FastAPI, Recommender Systems |
 
 ---
 
