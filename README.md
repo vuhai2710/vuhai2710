@@ -1,8 +1,6 @@
 ### 👋 Welcome to my GitHub
 My name is **Vu Ngoc Hai**.
 
-📌 *I am actively seeking an **Intern Backend Java** position to gain hands-on experience and contribute to real-world projects.*
-
 ---
 
 ## 🌐 Socials
